@@ -212,7 +212,7 @@ function drawline(data){
 		.duration(600)
         .attr("x", width * 0.3)
         .attr("y", -40)
-        .text("Deadliest Attacks (1970-2017)")
+        .text("Terrorist Attacks (1970-2017)")
         .style("fill","#fff")
 	    .style("font-size","20px")
 
